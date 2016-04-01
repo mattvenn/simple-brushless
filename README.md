@@ -41,3 +41,7 @@ a cheap (<£10) and simple [educational brushless motor](http://www.youtube.com/
 # Todo
 
 * put the pivot on the side of the breadboard for better hall effect alignment
+
+# License
+
+* `BY-SA` [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/by-sa.markdown)
