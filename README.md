@@ -35,4 +35,4 @@ a cheap (<£10) and simple educational brushless motor, allowing adjustment of:
 
 * [fusion360 motor model](http://a360.co/1SrSSEC)
 * [Walter Lewin's physics lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
-* [lt spice](http://www.linear.com/designtools/software/)
+* [lt spice](http://www.linear.com/designtools/software/) - [get started](http://hackaday.com/2016/02/26/adding-spice-to-your-workbench/)
