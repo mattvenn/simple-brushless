@@ -23,7 +23,7 @@ a cheap (<£10) and simple educational brushless motor, allowing adjustment of:
 
 * 10mm miniature bearing
 * prototyping board
-* [3d printed bobbin](bobbin.stl) 
+* [3d printed bobbin](4mm-bolt_motor2 v16_coil_1_Body1.stl) 
 * laser cut [rotor](rotor.dxf), [coil mount](mount.dxf) & [base plate](baseplate.dxf)
 * magnets - I used 5mm cylindrical
 
