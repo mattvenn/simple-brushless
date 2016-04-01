@@ -18,7 +18,7 @@ a cheap (<£10) and simple educational brushless motor, allowing adjustment of:
 * P channel mosfet - capable of switching at least 1A
 * Hall effect sensor
 * copper wire for the coil - I used about 8m of 0.224mm copper wire, with an overall resistance of 3.8 Ohms 
-* 2 1n4001 diodes
+* 2 1n4001 diodes. D2 is the [flyback diode](https://en.wikipedia.org/wiki/Flyback_diode) that protects the mosfet when it switches off.
 * 5k resistor
 * 10 uF cap
 * 10k potentiometer
