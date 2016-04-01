@@ -26,3 +26,8 @@ a cheap and simple educational brushless motor, allowing adjustment of
 * prototyping board
 * 3d printed bobbin
 * laser cut rotor & coil mount
+
+# Links
+
+* [fusion360 motor model](http://a360.co/1SrSSEC)
+* [Walter Lewin's physics lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
