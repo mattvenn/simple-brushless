@@ -7,9 +7,13 @@ a cheap (<£10) and simple educational brushless motor, allowing adjustment of:
 * sensor phase angle
 * coil power timing
 
+![motor](motor.jpg)
+
 # BOM
 
 ## electrical
+
+![schematic](schematic.png)
 
 * P channel mosfet - capable of switching at least 1A
 * Hall effect sensor
